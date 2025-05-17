@@ -6,4 +6,5 @@ David was here
 
 Noah was here
 
-kjgkljhgjkhkjhkjhkljhlkjhkljh
+To run the hello world program:
+`python3 hello.py`
